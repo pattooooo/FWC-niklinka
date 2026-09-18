@@ -1,0 +1,19 @@
+#btn {
+    padding: 1em;
+    border-radius: 1em;
+    border: 0;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    transition: 150ms;
+}
+
+#btn:hover {
+    background-color: rgb(13, 124, 203);
+    color: white;
+    transition: 150ms;
+}
+
+#btn:active {
+    background-color: #1f6a9b;
+    transition-duration: 0s;
+}
